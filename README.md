@@ -98,7 +98,7 @@ Once the SDK has been initialized, you can then perform transactions.
 
 
 #### Performing Transactions
-You can perform a transaction, once the SDK is configured, by providing the payment info and payment callbacks, like so:
+You can perform a transaction, once the SDK is configured, by providing the payment info and payment callbacks, like so...
 
 
 ```javascript
